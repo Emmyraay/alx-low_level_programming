@@ -2,17 +2,21 @@
 
 /**
 
- *main - entry point
+ * main - Entry point
 
  *
 
- *Return: 0 after printing the function
+ * Return: Always 0 (Success)
+
+ */
 
 int main(void)
 
 {
 
-puts("\"programing is like building a multilingual puzzle");
+printf("with proper grammar, but the outcome is a piece of art,\n");
+
+
 
 return (0);
 
