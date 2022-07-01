@@ -1,22 +1,20 @@
                                                       #include <stdio.h>
 
-/**
+/*
 
- * main - Entry point
+ *main - entry point
 
  *
 
- * Return: Always 0 (Success)
+ *Return: 0 after printing the function
 
- */
+*/
 
 int main(void)
 
 {
 
-printf("with proper grammar, but the outcome is a piece of art,\n");
-
-
+puts("\"programing is like building a multilingual puzzle");
 
 return (0);
 
