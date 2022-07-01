@@ -6,3 +6,5 @@ Write a C program that prints exactly "Programming is like building a multilingu
 C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line
 program that prints the size of various types on the computer it is compiled and run on.
 7. Intel
+8. UNIX is basically a simple operating system
+Task 8. program that prints exactly and that piece of art is useful
