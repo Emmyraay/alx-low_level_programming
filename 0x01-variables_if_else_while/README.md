@@ -8,3 +8,4 @@ Task 4
 6. Numberz
 7. Smile in the mirror
 8. Hexadecimal
+9. Patience, 
