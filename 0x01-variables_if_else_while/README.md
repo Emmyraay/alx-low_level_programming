@@ -9,3 +9,4 @@ Task 4
 7. Smile in the mirror
 8. Hexadecimal
 9. Patience, 
+10. Inventing is a combination of brains and materials. 
