@@ -6,3 +6,4 @@ echo  when I cant fall asleep, I play what I call the alphabet game
 Task 4
 5. Numbers
 6. Numberz
+7. Smile in the mirror
