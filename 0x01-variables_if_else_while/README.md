@@ -12,3 +12,4 @@ Task 4
 10. Inventing is a combination of brains and materials. 
 Task11
 11. The success combination in business is, Do what you do better
+12. Software is eating the World
