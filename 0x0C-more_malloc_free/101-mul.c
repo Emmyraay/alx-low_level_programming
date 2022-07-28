@@ -65,6 +65,7 @@ char *mul2(char *s1, char *s2)
 	ans[j] = '\0';
 	return (ans);
 }
+
 /**
  * print - prints a string
  * @s: string to print
@@ -84,6 +85,7 @@ void print(char *s)
  * @argv: arguments array
  * Return: 0 success 98 error
  */
+
 int main(int argc, char **argv)
 {
 	char *res;
