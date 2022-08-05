@@ -1,5 +1,6 @@
 #include "variadic_functions.h"
 #include <stdio.h>
+
 /**
  * print_strings - prints strings, followed by a new line.
  * @separator: the string to be printed between the strings
